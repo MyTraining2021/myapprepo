@@ -9,6 +9,9 @@ public class MainClass {
 		
 		for(int n:myarr)
 			System.out.println(n);
+		
+		SalesClass class1=new SalesClass();
+		class1.display();
 
 	}
 
